@@ -1,5 +1,5 @@
 <h1 align="center">
-    <tt>> Hello world</tt>
+    <tt> Hello world</tt>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" />  
     <br>
     <tt>> I'm Rachell</tt>
