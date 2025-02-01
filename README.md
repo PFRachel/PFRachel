@@ -4,6 +4,9 @@
     <br>
     <tt> ✨I'm Rachell✨ </tt>
 </h1>
+<div align="center">
+   <img src="https://ibb.co/rG0k11rx" alt="Banner Personalizado">
+</div>
 
 ## 💫 About Me:
 😄 I am looking to collaborate on projects to increase my knowledge<br>
