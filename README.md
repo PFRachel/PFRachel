@@ -2,7 +2,7 @@
     <tt> Hello World</tt>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" />  
     <br>
-    <tt>> ✨I'm Rachell ✨ </tt>
+    <tt> ✨I'm Rachell ✨ </tt>
 </h1>
 
 # 💫 About Me:
