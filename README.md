@@ -1,5 +1,9 @@
-#                                              Hello World 
-                                             ✨ I'm Rachel ✨
+<h1 align="center">
+    <tt>> Hello world</tt>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" />  
+    <br>
+    <tt>> I'm Rachell</tt>
+</h1>
 
 # 💫 About Me:
 😄 I am looking to collaborate on projects to increase my knowledge<br>
