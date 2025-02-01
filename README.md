@@ -5,7 +5,7 @@
     <tt> ✨I'm Rachell✨ </tt>
 </h1>
 
-##💫 About Me:
+#💫 About Me:
 😄 I am looking to collaborate on projects to increase my knowledge<br>
 👩‍🎓 I'm a Computer Engineering student at the Technological University of Costa Rica (TEC).
  <br>🌱 I am currently learning how to be an excellent programmer<br>👯 I am interested in learning about quantum computers and machine learning <br>⚡ Fun fact: 🔭I love reading good books<br>🪴 I love going out for walks and dancing.
