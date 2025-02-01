@@ -5,7 +5,7 @@
     <tt> ✨I'm Rachell✨ </tt>
 </h1>
 <div align="center">
-   <img src="https://ibb.co/rG0k11rx" alt="Banner Personalizado">
+   <img src=["https://ibb.co/rG0k11rx"](https://i.ibb.co/XZLXvvR7/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png) alt="Banner Personalizado">
 </div>
 
 ## 💫 About Me:
