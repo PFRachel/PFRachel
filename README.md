@@ -18,11 +18,11 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pfrachel&show_icons=true&locale=en&layout=compact" alt="pfrachel" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pfrachel&show_icons=true&locale=en" alt="pfrachel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pfrachel&" alt="pfrachel" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pfrachel&show_icons=true&locale=en&layout=compact" alt="pfrachel" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
