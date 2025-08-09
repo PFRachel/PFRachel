@@ -4,7 +4,6 @@
     <br>
     <tt>  I'm Rachell </tt>
 </h1>
-<img src="https://i.imgur.com/ysGXoE3.jpeg">
 
 ## 💫 About Me:
 😄 I am looking to collaborate on projects to increase my knowledge<br>
